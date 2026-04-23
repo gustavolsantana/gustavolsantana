@@ -26,7 +26,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,cs,html,css,mysql,vscode,visualstudio,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,js,cs,html,css,mysql,vscode,visualstudio,github&theme=dark" />
   </p>
 
 </div>
